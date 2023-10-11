@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "description": "ise_legacyrandomsource resources",
+        "pack_format": 10,
+        "forge:resource_pack_format": 9,
+        "forge:data_pack_format": 10
+    }
+}
